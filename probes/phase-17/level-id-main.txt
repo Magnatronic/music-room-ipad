@@ -1,0 +1,19 @@
+pure      fx:0 vol:0.30 x1 1f  peak  -30.1 dBFS  rms  -34.8  clipped 0  running
+pure      fx:0 vol:1.00 x1 1f  peak  -19.6 dBFS  rms  -24.4  clipped 0  running
+pure      fx:1 vol:0.30 x1 1f  peak  -23.6 dBFS  rms  -32.7  clipped 0  running
+pure      fx:1 vol:1.00 x1 1f  peak  -14.8 dBFS  rms  -22.8  clipped 0  running
+marimba   fx:0 vol:0.30 x1 1f  peak  -22.9 dBFS  rms  -40.7  clipped 0  running
+marimba   fx:0 vol:1.00 x1 1f  peak  -12.4 dBFS  rms  -30.4  clipped 0  running
+marimba   fx:1 vol:0.30 x1 1f  peak  -22.2 dBFS  rms  -37.3  clipped 0  running
+marimba   fx:1 vol:1.00 x1 1f  peak  -12.0 dBFS  rms  -26.3  clipped 0  running
+deep      fx:0 vol:0.30 x1 1f  peak  -22.2 dBFS  rms  -29.9  clipped 0  running
+deep      fx:0 vol:1.00 x1 1f  peak  -11.8 dBFS  rms  -19.5  clipped 0  running
+deep      fx:1 vol:0.30 x1 1f  peak  -16.6 dBFS  rms  -26.1  clipped 0  running
+deep      fx:1 vol:1.00 x1 1f  peak   -6.2 dBFS  rms  -14.9  clipped 0  running
+harp      fx:0 vol:0.30 x1 1f  peak  -24.5 dBFS  rms  -37.9  clipped 0  running
+harp      fx:0 vol:1.00 x1 1f  peak  -14.1 dBFS  rms  -27.5  clipped 0  running
+harp      fx:1 vol:0.30 x1 1f  peak  -23.2 dBFS  rms  -34.7  clipped 0  running
+harp      fx:1 vol:1.00 x1 1f  peak  -11.9 dBFS  rms  -23.5  clipped 0  running
+
+=== summary ===
+x1: worst peak -6.2 dBFS (deep 1f fx:1 vol:1); clipped samples 0; one note at vol 1: -19.6..-11.8 dBFS
